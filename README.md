@@ -1,6 +1,8 @@
 # dockerize-vue-app
 This is a demo project for dockerizing a Vue.js application.
 
+<img src="screenshots/vue-app.png" alt="vue app" />
+
 ## Project setup
 ```
 npm install
